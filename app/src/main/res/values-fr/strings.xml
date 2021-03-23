@@ -459,4 +459,6 @@
     <string name="removed_keywords">Mot-clé supprimé : %s de la liste de filtres</string>
     <string name="marked_as_seen">Marqué comme vu</string>
     <string name="delete_unsuccessful">Suppression non réussie</string>
+    <string name="crash_report_subject">Barinsta Crash Report</string>
+    <string name="crash_report_title">Select an email app to send crash logs</string>
 </resources>
