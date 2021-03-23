@@ -45,8 +45,8 @@
         <item quantity="other">%s\nPosts</item>
     </plurals>
     <plurals name="main_posts_count_inline">
-        <item quantity="one">%s Post</item>
-        <item quantity="other">%s Posts</item>
+        <item quantity="one">%s فرسته</item>
+        <item quantity="other">%s فرسته</item>
     </plurals>
     <plurals name="main_posts_followers">
         <item quantity="one">%s\nFollower</item>
@@ -75,7 +75,7 @@
         <item quantity="one">%d response averaging %s</item>
         <item quantity="other">%d responses averaging %s</item>
     </plurals>
-    <string name="slider_answer">Your answer: %s</string>
+    <string name="slider_answer">پاسخ شما: %s</string>
     <string name="reply_story">پاسخ به استوری</string>
     <string name="reply_hint">پاسخ…</string>
     <string name="story_quiz">نظرسنجی</string>
@@ -207,7 +207,7 @@
     <string name="comment_viewer_reply_comment">پاسخ به دیدگاه</string>
     <string name="comment_viewer_like_comment">پسندیدن دیدگاه</string>
     <string name="comment_viewer_unlike_comment">نپسندیدن دیدگاه</string>
-    <string name="comment_viewer_translate_comment">Translate comment</string>
+    <string name="comment_viewer_translate_comment">گرداندن دیدگاه</string>
     <string name="comment_viewer_delete_comment">هذف دیدگاه</string>
     <string name="comment_send_empty_comment">بدون دیدگاه تهی!</string>
     <string name="comment_view_mention_user_search">ایا میخواهید نام کاربری جستوجو کنید ؟</string>
