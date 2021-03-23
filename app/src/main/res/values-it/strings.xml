@@ -459,4 +459,6 @@
     <string name="removed_keywords">Parola chiave rimossa: %s dalla lista filtri</string>
     <string name="marked_as_seen">Segnato come visto</string>
     <string name="delete_unsuccessful">Eliminazione non riuscita</string>
+    <string name="crash_report_subject">Barinsta Crash Report</string>
+    <string name="crash_report_title">Select an email app to send crash logs</string>
 </resources>
