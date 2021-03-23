@@ -459,4 +459,6 @@
     <string name="removed_keywords">Removed keyword: %s from filter list</string>
     <string name="marked_as_seen">Σήμανθηκε ως αναγνωσμένο</string>
     <string name="delete_unsuccessful">Η διαγραφή απέτυχε</string>
+    <string name="crash_report_subject">Barinsta Crash Report</string>
+    <string name="crash_report_title">Select an email app to send crash logs</string>
 </resources>
