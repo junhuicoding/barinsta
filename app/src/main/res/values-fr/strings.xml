@@ -460,5 +460,5 @@
     <string name="marked_as_seen">Marqué comme vu</string>
     <string name="delete_unsuccessful">Suppression non réussie</string>
     <string name="crash_report_subject">Rapport d\'erreur de Barinsta</string>
-    <string name="crash_report_title">Select an email app to send crash logs</string>
+    <string name="crash_report_title">Sélectionnez une application de messagerie pour envoyer les journaux d\'erreurs</string>
 </resources>
