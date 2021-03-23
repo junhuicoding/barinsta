@@ -181,7 +181,7 @@
     <string name="dms_inbox_raven_media_screenshot">اسکرین شات گرفته شده</string>
     <string name="dms_inbox_raven_media_cant_deliver">نمیتواند ارسال شود</string>
     <string name="dms_inbox_error_null_count">Unseen count response is null!</string>
-    <string name="dms_thread_message_hint">Message...</string>
+    <string name="dms_thread_message_hint">پیام...</string>
     <string name="dms_thread_audio_hint">Press and hold to record audio</string>
     <string name="dms_thread_updating">Updating...</string>
     <string name="dms_action_leave">Leave chat</string>
@@ -355,7 +355,7 @@
     <string name="box_blur">Box blur</string>
     <string name="sepia">Sepia</string>
     <string name="clarendon">Clarendon</string>
-    <string name="one977">1977</string>
+    <string name="one977">۱۹۹۷</string>
     <string name="aden">Aden</string>
     <string name="reset">Reset</string>
     <string name="crop">Crop</string>
@@ -420,7 +420,7 @@
     <string name="raven_msg_info">Message will expire when seen</string>
     <string name="story_share">\@%s\'s story</string>
     <string name="story_share_highlight">\@%s\'s story highlight</string>
-    <string name="photo">Photo</string>
+    <string name="photo">فرتور</string>
     <string name="video">Video</string>
     <string name="voice_message">Voice message</string>
     <string name="post">فرسته</string>
@@ -441,9 +441,9 @@
     <string name="no_pending_requests">No pending requests</string>
     <string name="checking_for_new_messages">Checking for new messages</string>
     <string name="pref_category_stories">Stories</string>
-    <string name="pref_category_dm">DM</string>
-    <string name="pref_category_notifications">Notifications</string>
-    <string name="pref_category_post">Post</string>
+    <string name="pref_category_dm">پیام سرراست</string>
+    <string name="pref_category_notifications">آگهداد</string>
+    <string name="pref_category_post">فرسته</string>
     <string name="enable_dm_notifications">Enable DM notifications</string>
     <string name="enable_dm_auto_refesh">Auto refresh messages</string>
     <string name="auto_refresh_every">Auto refresh every</string>
