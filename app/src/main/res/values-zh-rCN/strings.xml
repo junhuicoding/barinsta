@@ -451,4 +451,6 @@
     <string name="removed_keywords">已移除关键词: %s 至过滤列表</string>
     <string name="marked_as_seen">已标记为已读</string>
     <string name="delete_unsuccessful">删除失败</string>
+    <string name="crash_report_subject">Barinsta Crash Report</string>
+    <string name="crash_report_title">Select an email app to send crash logs</string>
 </resources>
