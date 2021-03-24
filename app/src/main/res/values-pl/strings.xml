@@ -471,7 +471,7 @@
     <string name="hint_keyword">Słowo kluczowe</string>
     <string name="toggle_keyword_filter">Włącz filtr słów kluczowych</string>
     <string name="edit_keyword_filter">Edytuj filtry słów kluczowych</string>
-    <string name="added_keywords">Added keyword: %s to filter list</string>
+    <string name="added_keywords">Dodano słowo kluczowe: %s do listy filtrów</string>
     <string name="removed_keywords">Usunięto słowo kluczowe: %s z listy filtrów</string>
     <string name="marked_as_seen">Oznacz jako przeczytane</string>
     <string name="delete_unsuccessful">Usuwanie nie powiodło się</string>
