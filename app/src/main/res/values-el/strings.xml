@@ -38,7 +38,7 @@
     <string name="select_folder">Επιλογή Φακέλου</string>
     <string name="theme_settings">Θέμα</string>
     <string name="login_settings">Επηρεάζει μόνο τους συνδεδεμένους χρήστες:</string>
-    <string name="anonymous_settings">Επηρεάζει μόνο ανώνυμους χρήστες:</string>
+    <string name="anonymous_settings">Επηρεάζει μόνο τους ανώνυμους χρήστες:</string>
     <string name="select_language">Γλώσσα</string>
     <plurals name="main_posts_count">
         <item quantity="one">%s\nΔημοσίευση</item>
@@ -179,7 +179,7 @@
     <string name="dms_inbox_raven_media_suggested">Προτεινόμενη</string>
     <string name="dms_inbox_raven_media_screenshot">Λήφθηκε στιγμιότυπο οθόνης</string>
     <string name="dms_inbox_raven_media_cant_deliver">Αδυναμία παράδοσης</string>
-    <string name="dms_inbox_error_null_count">Unseen count response is null!</string>
+    <string name="dms_inbox_error_null_count">Η απόκριση καταμέτρησης μη προβληθέντων είναι άκυρη!</string>
     <string name="dms_thread_message_hint">Μήνυμα...</string>
     <string name="dms_thread_audio_hint">Πατήστε παρατεταμένα για εγγραφή ήχου</string>
     <string name="dms_thread_updating">Ενημέρωση...</string>
@@ -269,9 +269,9 @@
     <string name="add_account">Προσθήκη λογαριασμού</string>
     <string name="about_category_license">Άδεια (μόνο στα Αγγλικά)</string>
     <string name="about_documentation">Επισκεφθείτε την ιστοσελίδα μας</string>
-    <string name="about_documentation_summary">Λάβετε υποστήριξη, συζητήστε, συναντήστε άλλους, και διασκεδάστε!</string>
+    <string name="about_documentation_summary">Λάβετε υποστήριξη, συζητήστε, συναντήστε άλλους και διασκεδάστε!</string>
     <string name="about_repository">Δείτε τον πηγαίο κώδικα μας στο GitHub</string>
-    <string name="about_repository_summary">Ελέγχου, μαρκάρισμα με αστέρια, αναφορά σφαλμάτων, συνεισφορές, και διασκέδαση (ξανά)!</string>
+    <string name="about_repository_summary">Έλεγχος, αναφορά σφαλμάτων, συνεισφορά και διασκέδαση (ξανά)!</string>
     <string name="about_feedback">Αποστολή σχολίων μέσω ηλ. ταχυδρομείου</string>
     <string name="about_category_3pt">Αποδόσεις Τρίτων</string>
     <string name="reminder">Υπενθύμιση</string>
@@ -455,8 +455,8 @@
     <string name="hint_keyword">Λέξη-κλειδί</string>
     <string name="toggle_keyword_filter">Ενεργοποίηση φίλτρου λέξεων-κλειδιών</string>
     <string name="edit_keyword_filter">Επεξεργασία φίλτρων λέξεων-κλειδιών</string>
-    <string name="added_keywords">Added keyword: %s to filter list</string>
-    <string name="removed_keywords">Removed keyword: %s from filter list</string>
+    <string name="added_keywords">Προστέθηκε λέξη-κλειδί: %s στον κατάλογο φιλτραρίσματος</string>
+    <string name="removed_keywords">Αφαιρέθηκε λέξη-κλειδί: %s στον κατάλογο φιλτραρίσματος</string>
     <string name="marked_as_seen">Σήμανθηκε ως αναγνωσμένο</string>
     <string name="delete_unsuccessful">Η διαγραφή απέτυχε</string>
     <string name="crash_report_subject">Αναφορά Κατάρρευσης Barinsta</string>
