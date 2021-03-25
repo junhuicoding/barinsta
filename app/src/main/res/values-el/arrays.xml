@@ -32,7 +32,7 @@
         <item>Φωτεινό</item>
     </string-array>
     <string-array name="story_sorts">
-        <item>Προεπιλεγμένο του Instagram(Αδιάβαστο και μετά διαβασμένο)</item>
+        <item>Προεπιλογή του Instagram (Μη αναγνωσμένα και μετά αναγνωσμένα)</item>
         <item>Από το νεότερο στο παλαιότερο</item>
         <item>Από το παλαιότερο στο νεότερο</item>
     </string-array>
