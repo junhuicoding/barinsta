@@ -461,6 +461,6 @@
     <string name="delete_unsuccessful">Η διαγραφή απέτυχε</string>
     <string name="crash_report_subject">Αναφορά Κατάρρευσης Barinsta</string>
     <string name="crash_report_title">Επιλέξτε μια εφαρμογή ηλ. ταχυδρομείου για αποστολή αρχείων καταγραφής κατάρρευσης</string>
-    <string name="copy_caption">Copy caption</string>
-    <string name="copy_reply">Copy reply</string>
+    <string name="copy_caption">Αντιγραφή λεζάντας</string>
+    <string name="copy_reply">Αντιγραφή απάντησης</string>
 </resources>
