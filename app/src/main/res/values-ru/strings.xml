@@ -312,8 +312,8 @@
     <string name="translate_caption">Перевести подпись</string>
     <string name="player_timeline_desc">Лента времени видеопроигрывателя</string>
     <string name="liking">Нравится…</string>
-    <string name="like_unsuccessful">Нравится неудачно</string>
-    <string name="unlike_unsuccessful">Не нравится неудачно</string>
+    <string name="like_unsuccessful">Не удалось поставить лайк</string>
+    <string name="unlike_unsuccessful">Не удалось снять лайк</string>
     <string name="unliking">Отклонение…</string>
     <string name="controls">Управление</string>
     <string name="saving">Сохранение…</string>
@@ -404,7 +404,7 @@
     <string name="done">Готово</string>
     <string name="dms_action_make_admin">Сделать администратором</string>
     <string name="dms_action_remove_admin">Удалить администратора</string>
-    <string name="edit_unsuccessful">Ошибка при изменении</string>
+    <string name="edit_unsuccessful">Не удалось изменить</string>
     <string name="message">Сообщение</string>
     <string name="reply">Ответить</string>
     <string name="tap_to_remove">Нажмите для удаления</string>
