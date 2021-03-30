@@ -461,6 +461,6 @@
     <string name="delete_unsuccessful">Eliminazione non riuscita</string>
     <string name="crash_report_subject">Rapporto sugli errori di Barinsta</string>
     <string name="crash_report_title">Selezionare un\'applicazione di posta elettronica per inviare i registri di errori</string>
-    <string name="copy_caption">Copy caption</string>
-    <string name="copy_reply">Copy reply</string>
+    <string name="copy_caption">Copia didascalia</string>
+    <string name="copy_reply">Copia risposta</string>
 </resources>
