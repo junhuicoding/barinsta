@@ -21,7 +21,7 @@
     <string name="title_comments">Комментарии</string>
     <string name="title_notifications">Активность</string>
     <string name="update_check">Проверять наличие обновлений при запуске</string>
-    <string name="flag_secure">Block screenshots &amp; app preview</string>
+    <string name="flag_secure">Блокировать скриншоты &amp; превью приложения</string>
     <string name="download_user_folder">Скачать публикации в папки с именем пользователя</string>
     <string name="mark_as_seen_setting">Отметить истории как увиденные после просмотра</string>
     <string name="mark_as_seen_setting_summary">Автор истории узнает, что вы просмотрели её</string>
@@ -187,7 +187,7 @@
     <string name="dms_inbox_raven_media_suggested">Предложено</string>
     <string name="dms_inbox_raven_media_screenshot">Сделан снимок экрана</string>
     <string name="dms_inbox_raven_media_cant_deliver">Не удаётся доставить</string>
-    <string name="dms_inbox_error_null_count">Unseen count response is null!</string>
+    <string name="dms_inbox_error_null_count">Количество непрочитанных сообщений неизвестно!</string>
     <string name="dms_thread_message_hint">Сообщение...</string>
     <string name="dms_thread_audio_hint">Нажмите и удерживайте, чтобы записать звук</string>
     <string name="dms_thread_updating">Обновление...</string>
@@ -270,7 +270,7 @@
     <string name="pref_start_screen">Начальный экран</string>
     <string name="pref_category_general">Общее</string>
     <string name="pref_category_theme">Тема</string>
-    <string name="pref_category_downloads">Скачивания</string>
+    <string name="pref_category_downloads">Загрузки</string>
     <string name="pref_category_locale">Локализация</string>
     <string name="account">Учётная запись</string>
     <string name="account_hint">Текущий вход не работает? Просто добавьте учётную запись снова.</string>
@@ -468,15 +468,15 @@
     <string name="generic_null_response">Ответ пуст!</string>
     <string name="generic_not_ok_response">Ответный статус не в порядке!</string>
     <string name="generic_failed_request">Запрос не удался!</string>
-    <string name="hint_keyword">Keyword</string>
-    <string name="toggle_keyword_filter">Enable keyword filter</string>
-    <string name="edit_keyword_filter">Edit keyword filters</string>
-    <string name="added_keywords">Added keyword: %s to filter list</string>
-    <string name="removed_keywords">Removed keyword: %s from filter list</string>
-    <string name="marked_as_seen">Marked as seen</string>
-    <string name="delete_unsuccessful">Delete unsuccessful</string>
+    <string name="hint_keyword">Ключевое слово</string>
+    <string name="toggle_keyword_filter">Включить фильтр по ключевым словам</string>
+    <string name="edit_keyword_filter">Редактировать фильтры ключевых слов</string>
+    <string name="added_keywords">Добавлено ключевое слово: %s в список фильтров</string>
+    <string name="removed_keywords">Удалено ключевое слово: %s из списка фильтров</string>
+    <string name="marked_as_seen">Отмечено как просмотренное</string>
+    <string name="delete_unsuccessful">Не удалось удалить</string>
     <string name="crash_report_subject">Barinsta Crash Report</string>
-    <string name="crash_report_title">Select an email app to send crash logs</string>
-    <string name="copy_caption">Copy caption</string>
-    <string name="copy_reply">Copy reply</string>
+    <string name="crash_report_title">Выберите приложение для отправки логов ошибки</string>
+    <string name="copy_caption">Копировать подпись</string>
+    <string name="copy_reply">Копировать ответ</string>
 </resources>
