@@ -461,6 +461,6 @@
     <string name="delete_unsuccessful">Falha ao excluir</string>
     <string name="crash_report_subject">Relatório de Travamento do Barinsta</string>
     <string name="crash_report_title">Selecione um aplicativo de e-mail para enviar os registros de travamento</string>
-    <string name="copy_caption">Copy caption</string>
-    <string name="copy_reply">Copy reply</string>
+    <string name="copy_caption">Copiar legenda</string>
+    <string name="copy_reply">Copiar resposta</string>
 </resources>
