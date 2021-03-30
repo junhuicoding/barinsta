@@ -461,4 +461,6 @@
     <string name="delete_unsuccessful">Eliminación fallida</string>
     <string name="crash_report_subject">Informe de fallos de Barinsta</string>
     <string name="crash_report_title">Seleccione una aplicación de correo electrónico para enviar registros de errores</string>
+    <string name="copy_caption">Copy caption</string>
+    <string name="copy_reply">Copy reply</string>
 </resources>
